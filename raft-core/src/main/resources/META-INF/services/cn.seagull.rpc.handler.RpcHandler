@@ -1,0 +1,6 @@
+cn.seagull.rpc.handler.RequestVoteRequestHandler
+cn.seagull.rpc.handler.AppendEntriesRequestHandler
+cn.seagull.rpc.handler.TaskRequestHandler
+cn.seagull.rpc.handler.AddNodeHandler
+cn.seagull.rpc.handler.RemoveNodeHandler
+cn.seagull.rpc.handler.PingRequestHandler
